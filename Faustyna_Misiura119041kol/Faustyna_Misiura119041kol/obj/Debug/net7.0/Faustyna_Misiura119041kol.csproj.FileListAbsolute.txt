@@ -1,0 +1,14 @@
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\bin\Debug\net7.0\Faustyna_Misiura119041kol.exe
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\bin\Debug\net7.0\Faustyna_Misiura119041kol.deps.json
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\bin\Debug\net7.0\Faustyna_Misiura119041kol.runtimeconfig.json
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\bin\Debug\net7.0\Faustyna_Misiura119041kol.dll
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\bin\Debug\net7.0\Faustyna_Misiura119041kol.pdb
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\obj\Debug\net7.0\Faustyna_Misiura119041kol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\obj\Debug\net7.0\Faustyna_Misiura119041kol.AssemblyInfoInputs.cache
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\obj\Debug\net7.0\Faustyna_Misiura119041kol.AssemblyInfo.cs
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\obj\Debug\net7.0\Faustyna_Misiura119041kol.csproj.CoreCompileInputs.cache
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\obj\Debug\net7.0\Faustyna_Misiura119041kol.dll
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\obj\Debug\net7.0\refint\Faustyna_Misiura119041kol.dll
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\obj\Debug\net7.0\Faustyna_Misiura119041kol.pdb
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\obj\Debug\net7.0\Faustyna_Misiura119041kol.genruntimeconfig.cache
+C:\Users\Faustyna\source\repos\Faustyna_Misiura119041kol\Faustyna_Misiura119041kol\obj\Debug\net7.0\ref\Faustyna_Misiura119041kol.dll
